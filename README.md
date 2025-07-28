@@ -21,6 +21,8 @@ CosmeticArmorReworked
 iChunUtil
 
 Morph
+
+
 zh_Cn
 面向整合包而基于1.3.3版本的rpf2的魔改版。原作者链接https://github.com/Sereath/rfp2
 添加了物品stimulant（默认按r使用）和amrorplate（默认按g使用）
