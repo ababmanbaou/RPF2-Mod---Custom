@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "rfp2:item/itemarmorplate"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [10, 1, 31],
+			"translation": [-0.75, 1.75, 0],
+			"scale": [0.55, 0.63, 0.52]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+1.0.0 - Initial release
+zh_cn：
+1：在原模组RPF2的基础上，添加物品强心针和防弹插板。利用Customizable Player Models播放动画，对应物品的功能的靠指令实现。
+en_us：
+1: Based on the original mod RPF2, add item Stimulant and Armor plate.
+ Use Customizable Player Models to play animations, corresponding to the item's function implemented by command.

@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "rfp2:item/itemstimulant"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [10, 1, 31],
+			"scale": [0.4, 0.41, 0.44]
+		}
+	}
+}

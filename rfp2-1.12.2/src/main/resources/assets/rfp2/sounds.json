@@ -1,0 +1,20 @@
+{
+  "use_drug_sound": {
+    "category": "players",
+    "sounds": [
+      {
+        "name": "rfp2:use_drug_sound",
+        "stream": false
+      }
+    ]
+  },
+  "use_armor_plate_sound": {
+    "category": "players",
+    "sounds": [
+      {
+        "name": "rfp2:use_armor_plate_sound",
+        "stream": false
+      }
+    ]
+  }
+}

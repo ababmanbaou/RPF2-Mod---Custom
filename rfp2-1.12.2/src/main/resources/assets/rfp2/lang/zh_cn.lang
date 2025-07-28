@@ -1,0 +1,10 @@
+key.rfp2.category=真实第一人称视角 2
+key.arms.desc=是否渲染手臂
+key.mod.desc=是否启用模组
+key.head.desc=是否打开头部跟随
+rfp2.compatability.helditemconflictlist=保留的物品的冲突列表（纯机翻）
+rfp2.compatability.mountconflictlist=物品冲突列表（纯机翻）
+item.itemstimulant.name=强心针
+key.use_stimulant.desc=使用强心针
+item.itemArmorplate.name=防弹插片
+key.use_armor_plate.desc=使用防弹插片
